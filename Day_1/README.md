@@ -54,7 +54,7 @@ plt.show()
 
 ### 🔍 Expected Output (Text & Visual)
 
-**Console Output:**
+#### 💻 Console Output
 ```text
 Number of observations (n): 30
 Mean of X: 5.421
@@ -63,7 +63,7 @@ Slope (β1): 1.5234
 Intercept (β0): 4.6120
 ```
 
-**Visualization:**
+#### 📊 Visualization
 ![Linear Regression Output](./linear_regression.png)
 
 ---
