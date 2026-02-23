@@ -21,7 +21,7 @@ lasso.fit(X_train_scaled, y_train)
 
 ### 🔍 Expected Output (Lasso)
 
-**Console Output:**
+#### 💻 Console Output
 ```text
 Intercept: 0.3821
 Coefficients: [ 0.041 -0.123  0.000  0.000  0.251 ]
@@ -29,7 +29,7 @@ Selected features: ['Age', 'Pclass', 'Fare']
 MSE: 0.1423, R2: 0.4210
 ```
 
-**Visualization:**
+#### 📊 Visualization
 ![Lasso Output](./lasso_predicted_vs_actual.png)
 
 ---
@@ -48,14 +48,14 @@ ridge.fit(X_train_scaled, y_train)
 
 ### 🔍 Expected Output (Ridge)
 
-**Console Output:**
+#### 💻 Console Output
 ```text
 Intercept: 0.3821
 Coefficients: [ 0.045 -0.118  0.012 -0.008  0.245 ]
 MSE: 0.1415, R2: 0.4225
 ```
 
-**Visualization:**
+#### 📊 Visualization
 ![Ridge Output](./ridge_actual_vs_predicted.png)
 
 ---
