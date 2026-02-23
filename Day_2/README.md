@@ -52,7 +52,7 @@ for i, coef in enumerate(w):
 
 ### 🔍 Expected Output (Text)
 
-**Console Output Example (N=1000):**
+#### 💻 Console Output (N=1000)
 ```text
 Iteration 1
 Gradient:
