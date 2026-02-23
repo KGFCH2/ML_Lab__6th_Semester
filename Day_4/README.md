@@ -42,13 +42,13 @@ def predict(X_train, y_train, X_test, K):
 
 ### 🔍 Expected Output (Text & Visual)
 
-**Console Output:**
+#### 💻 Console Output
 ```text
 K Value: 3
 Accuracy: 0.9473
 ```
 
-**Visualization:**
+#### 📊 Visualization
 ![KNN Accuracy Output](./k_vs_accuracy.png)
 
 ---
