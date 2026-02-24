@@ -1,4 +1,4 @@
-# Linear Regression
+# Linear Regression using the formula method (without libraries)
 
 import pandas as pd
 import matplotlib.pyplot as plt
