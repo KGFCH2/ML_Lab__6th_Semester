@@ -1,4 +1,4 @@
-# Multiple Linear Regression using Ridge Regularization
+# Multiple Linear Regression using Ridge Regularization 
 
 import pandas as pd
 import numpy as np
