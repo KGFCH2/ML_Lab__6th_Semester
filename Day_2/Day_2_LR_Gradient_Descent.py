@@ -1,4 +1,4 @@
-# Linear Regression using Gradient Descent
+# Linear Regression using Gradient Descent 
 
 import pandas as pd
 import numpy as np
