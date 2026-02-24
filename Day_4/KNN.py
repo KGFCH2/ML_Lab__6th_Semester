@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) Algorithm Implementation
+# K-Nearest Neighbors (KNN) Algorithm Implementation 
 
 # ------------------------------------------------------------
 # KNN Classifier: 
