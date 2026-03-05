@@ -1,4 +1,5 @@
 # 📉 ML Day 4: K-Nearest Neighbors (KNN)
+
 **Introduction to Machine Learning Lab (CSE12207)** | **Babin Bid**
 
 This session focused on the implementation of the **K-Nearest Neighbors (KNN)** algorithm from scratch. KNN is a non-parametric, lazy learning algorithm used for classification.
@@ -6,6 +7,7 @@ This session focused on the implementation of the **K-Nearest Neighbors (KNN)** 
 ---
 
 ### ❓ Question 1
+
 **Implement the KNN algorithm from scratch using Euclidean distance.**
 
 📜 **[View Full Source Code](./KNN.py)**
@@ -13,6 +15,7 @@ This session focused on the implementation of the **K-Nearest Neighbors (KNN)** 
 ---
 
 ### ✅ Answer (Manual Implementation Snippet)
+
 ```python
 import numpy as np
 from collections import Counter
@@ -43,13 +46,15 @@ def predict(X_train, y_train, X_test, K):
 ### 🔍 Expected Output (Text & Visual)
 
 #### 💻 Console Output
+
 ```text
 K Value: 3
 Accuracy: 0.9473
 ```
 
 #### 📊 Visualization
+
 ![KNN Accuracy Output](./k_vs_accuracy.png)
 
 ---
-<p align="center">Created with ❤️ by <b>Babin Bid</b> | Adamas University</p>
+<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
