@@ -1,4 +1,5 @@
 # 📉 ML Day 2: Linear Regression using Gradient Descent
+
 **Introduction to Machine Learning Lab (CSE12207)** | **Babin Bid**
 
 In this session, we optimized the Linear Regression model using the **Gradient Descent** algorithm, involving iterative updates of weights to minimize the cost function.
@@ -6,6 +7,7 @@ In this session, we optimized the Linear Regression model using the **Gradient D
 ---
 
 ### ❓ Question 1
+
 **Implement Linear Regression using Gradient Descent optimization.**
 
 The weights are updated iteratively using the formula:
@@ -14,6 +16,7 @@ $w = w - \alpha \times \text{gradient}$
 ---
 
 ### ✅ Answer (Python Implementation)
+
 📜 **[View Full Source Code](./Day_2_LR_Gradient_Descent.py)**
 
 ```python
@@ -53,6 +56,7 @@ for i, coef in enumerate(w):
 ### 🔍 Expected Output (Text)
 
 #### 💻 Console Output (N=1000)
+
 ```text
 Iteration 1
 Gradient:
@@ -67,4 +71,4 @@ w1 = 4.312
 ```
 
 ---
-<p align="center">Created with ❤️ by <b>Babin Bid</b> | Adamas University</p>
+<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
