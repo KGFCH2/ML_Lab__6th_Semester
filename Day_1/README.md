@@ -1,4 +1,5 @@
 # 📉 ML Day 1: Linear Regression from Scratch
+
 **Introduction to Machine Learning Lab (CSE12207)** | **Babin Bid**
 
 This session focused on implementing the mathematical foundations of simple linear regression without using external ML libraries (like Scikit-Learn).
@@ -6,15 +7,18 @@ This session focused on implementing the mathematical foundations of simple line
 ---
 
 ### ❓ Question 1
+
 **Implement Linear Regression from scratch using Python.**
 
 Calculate the slope ($\beta_1$) and intercept ($\beta_0$) using the cross-deviation method:
+
 - $SS_{xy} = \sum X Y - n \bar{x} \bar{y}$
 - $SS_{xx} = \sum X^2 - n \bar{x}^2$
 
 ---
 
 ### ✅ Answer (Python Implementation)
+
 📜 **[View Full Source Code](./Day_1_Linear_Regression.py)**
 
 ```python
@@ -55,6 +59,7 @@ plt.show()
 ### 🔍 Expected Output (Text & Visual)
 
 #### 💻 Console Output
+
 ```text
 Number of observations (n): 30
 Mean of X: 5.421
@@ -64,7 +69,8 @@ Intercept (β0): 4.6120
 ```
 
 #### 📊 Visualization
+
 ![Linear Regression Output](./linear_regression.png)
 
 ---
-<p align="center">Created with ❤️ by <b>Babin Bid</b> | Adamas University</p>
+<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
