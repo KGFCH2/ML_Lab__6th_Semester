@@ -77,4 +77,5 @@ This document explains the organization of the Machine Learning lab and how to u
 3. **Visualizations:** Most scripts generate plots using `matplotlib`. Ensure you have a windowing system or IDE support for displaying plots.
 
 ---
-<p align="center">Created with ❤️ by <b>Babin Bid</b> | Adamas University</p>
+
+Created with Dedication by Babin Bid | Adamas University
