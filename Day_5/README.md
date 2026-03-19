@@ -6,7 +6,7 @@ This session focuses on implementing Logistic Regression for binary classificati
 
 ---
 
-### ❓ Question 1
+## ❓ Question 1
 
 **Implement Logistic Regression using Salary Data for binary classification.**
 
@@ -121,4 +121,4 @@ AUC Score: 0.9583333333333333
 
 ---
 
-<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
+Created with Dedication by Babin Bid | Adamas University
