@@ -1,6 +1,7 @@
 # Linear Regression using the formula method (without libraries)
 
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 
 # -----------------------------
@@ -8,8 +9,8 @@ import matplotlib.pyplot as plt
 # -----------------------------
 data = pd.read_csv("test_data1.csv")
 
-X = data.iloc[:, 0].values
-Y = data.iloc[:, 1].values
+X = np.array(data.iloc[:, 0])
+Y = np.array(data.iloc[:, 1])
 
 # -----------------------------
 # Step 2: Number of observations
