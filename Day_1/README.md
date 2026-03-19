@@ -6,7 +6,7 @@ This session focused on implementing the mathematical foundations of simple line
 
 ---
 
-### ❓ Question 1
+## ❓ Question 1
 
 **Implement Linear Regression from scratch using Python.**
 
@@ -68,9 +68,10 @@ Slope (β1): 1.5234
 Intercept (β0): 4.6120
 ```
 
-#### 📊 Visualization
+### 📊 Visualization
 
 ![Linear Regression Output](./linear_regression.png)
 
 ---
-<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
+
+Created with Dedication by Babin Bid | Adamas University
