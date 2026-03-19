@@ -6,7 +6,7 @@ This session focused on **Regularization** techniques to prevent overfitting in 
 
 ---
 
-### ❓ Question 1: Lasso Regression (L1)
+## ❓ Question 1: Lasso Regression (L1)
 
 **Implement Lasso Regression to perform feature selection and prevent overfitting.**
 
@@ -21,9 +21,9 @@ lasso = Lasso(alpha=0.1)
 lasso.fit(X_train_scaled, y_train)
 ```
 
-### 🔍 Expected Output (Lasso)
+### 🔍 Lasso Regression Results
 
-#### 💻 Console Output
+#### 💻 Lasso Console Output
 
 ```text
 Intercept: 0.3821
@@ -32,7 +32,7 @@ Selected features: ['Age', 'Pclass', 'Fare']
 MSE: 0.1423, R2: 0.4210
 ```
 
-#### 📊 Visualization
+#### 📊 Lasso Visualization
 
 ![Lasso Output](./lasso_predicted_vs_actual.png)
 
@@ -51,9 +51,9 @@ ridge = Ridge(alpha=1.0)
 ridge.fit(X_train_scaled, y_train)
 ```
 
-### 🔍 Expected Output (Ridge)
+### 🔍 Ridge Regression Results
 
-#### 💻 Console Output
+#### 💻 Ridge Console Output
 
 ```text
 Intercept: 0.3821
@@ -61,9 +61,10 @@ Coefficients: [ 0.045 -0.118  0.012 -0.008  0.245 ]
 MSE: 0.1415, R2: 0.4225
 ```
 
-#### 📊 Visualization
+#### 📊 Ridge Visualization
 
 ![Ridge Output](./ridge_actual_vs_predicted.png)
 
 ---
-<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
+
+Created with Dedication by Babin Bid | Adamas University
