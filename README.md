@@ -59,6 +59,14 @@ Explore the detailed implementation and code snippets for each session via the l
 * 📊 **Data:** Salary dataset for predicting binary outcomes.
 * 🧠 **Skill:** Manual implementation of logistic regression algorithm.
 
+### 📊 [Day 6: Clustering Algorithms](./Day_6/README.md)
+
+*Unsupervised learning with K-Means and DBSCAN clustering on Titanic dataset.*
+
+* 🎯 **K-Means:** Elbow method for optimal cluster selection.
+* 🔍 **DBSCAN:** Density-based clustering with noise detection.
+* 📊 **Visualization:** PCA-reduced cluster plots and elbow curves.
+
 ---
 
 ## 🚀 Environment Setup
