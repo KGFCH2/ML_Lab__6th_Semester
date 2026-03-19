@@ -8,8 +8,8 @@ import numpy as np
 # -----------------------------------
 data = pd.read_csv("D:\\Vs Code\\ML_LAB\\Day_2\\test_data1.csv")
 
-X = data.iloc[:, :-1].values
-y = data.iloc[:, -1].values.reshape(-1, 1)
+X = np.array(data.iloc[:, :-1])
+y = np.array(data.iloc[:, -1]).reshape(-1, 1)
 
 m = len(y)
 
