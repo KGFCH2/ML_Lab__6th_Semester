@@ -6,7 +6,7 @@ In this session, we optimized the Linear Regression model using the **Gradient D
 
 ---
 
-### ❓ Question 1
+## ❓ Question 1
 
 **Implement Linear Regression using Gradient Descent optimization.**
 
@@ -71,4 +71,5 @@ w1 = 4.312
 ```
 
 ---
-<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
+
+Created with Dedication by Babin Bid | Adamas University
