@@ -6,7 +6,7 @@ This session focused on the implementation of the **K-Nearest Neighbors (KNN)** 
 
 ---
 
-### ❓ Question 1
+## ❓ Question 1
 
 **Implement the KNN algorithm from scratch using Euclidean distance.**
 
@@ -57,4 +57,5 @@ Accuracy: 0.9473
 ![KNN Accuracy Output](./k_vs_accuracy.png)
 
 ---
-<p align="center">Created with Dedication by <b>Babin Bid</b> | Adamas University</p>
+
+Created with Dedication by Babin Bid | Adamas University
