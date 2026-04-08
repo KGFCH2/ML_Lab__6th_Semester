@@ -66,6 +66,15 @@ This document explains the organization of the Machine Learning lab and how to u
   - `Salary_Data.csv`: Dataset for salary prediction.
   - `README.md`: CART algorithm explanation and MSE comparison.
 
+### 🌲 [Day_8/](./Day_8/)
+
+- 📌 **Purpose:** Ensemble Learning methods (AdaBoost & Random Forest).
+- 📋 **Contents:**
+  - `AdaBoost.py`: AdaBoost Classifier implementation.
+  - `RandomForest.py`: Random Forest Classifier implementation.
+  - `titanic_toy.csv`: Dataset for survival prediction.
+  - `README.md`: Ensemble methods introduction and evaluation.
+
 ---
 
 ## 🛠️ Usage Instructions
