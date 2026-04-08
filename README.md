@@ -75,6 +75,14 @@ Explore the detailed implementation and code snippets for each session via the l
 - 🏷️ **Mixed Data:** Handling categorical and numerical features together.
 - 📊 **Performance Analysis:** MSE comparison between different data types.
 
+### 🌲 [Day 8: Ensemble Learning (AdaBoost & Random Forest)](./Day_8/README.md)
+
+*Implementation of Bagging and Boosting ensemble techniques using Titanic dataset.*
+
+- 🚀 **AdaBoost:** Adaptive Boosting for improved classification accuracy.
+- 🌲 **Random Forest:** Bagging-based forest construction for robust predictions.
+- 🧪 **Metrics:** Model evaluation using accuracy scores.
+
 ---
 
 ## 🚀 Environment Setup
